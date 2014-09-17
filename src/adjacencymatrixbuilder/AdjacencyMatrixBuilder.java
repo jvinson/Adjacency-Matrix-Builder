@@ -4,13 +4,7 @@
  * and open the template in the editor.
  */
 
-package adjacencymatrixbuilder;
 
-import java.io.BufferedWriter;
-import java.io.FileOutputStream;
-import java.io.OutputStreamWriter;
-import java.util.Scanner;
-import adjacencymatrixbuilder.Floyd;
 
 /**
  *
